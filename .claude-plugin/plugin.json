@@ -1,0 +1,20 @@
+{
+  "name": "claude-code-git-discard-guard",
+  "displayName": "Git discard guard for Claude Code",
+  "version": "0.1.0",
+  "description": "Stops Claude Code from wiping uncommitted changes with git checkout --, git restore, git reset --hard or git clean -f.",
+  "author": {
+    "name": "Wizalnut (Epic production s.r.o.)",
+    "url": "https://wizalnut.com"
+  },
+  "homepage": "https://wizalnut.com/en/packs",
+  "repository": "https://github.com/PlatonKuruc/claude-code-git-discard-guard",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-code-hooks",
+    "ai-agents",
+    "quality-gates",
+    "git"
+  ]
+}

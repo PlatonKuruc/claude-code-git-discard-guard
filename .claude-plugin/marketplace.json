@@ -1,0 +1,15 @@
+{
+  "name": "claude-code-git-discard-guard",
+  "description": "Git discard guard for Claude Code",
+  "owner": {
+    "name": "Wizalnut (Epic production s.r.o.)",
+    "url": "https://wizalnut.com"
+  },
+  "plugins": [
+    {
+      "name": "claude-code-git-discard-guard",
+      "source": "./",
+      "description": "Stops Claude Code from wiping uncommitted changes with git checkout --, git restore, git reset --hard or git clean -f."
+    }
+  ]
+}
